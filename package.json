@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/paolakerssner.lwc-l4o5s8am-fork-l4oebc1n",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Y73WEYocXTEEocD1Ktc3 --open"
+  }
+}
